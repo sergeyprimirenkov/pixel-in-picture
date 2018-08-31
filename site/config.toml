@@ -1,3 +1,6 @@
-baseurl = "/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Pixel in Picture"
+theme="hyde"
+newContentEditor = "SublimeText3"
+pygmentsStyle = "native"
